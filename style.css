@@ -1,0 +1,23 @@
+h1:hover{
+    color: red;}
+
+.subtitle{
+    color: blue
+}
+#contact{
+    color: green;
+}
+li:nth-child(2)
+{
+    color: pink;
+}
+
+#google-link:link
+{
+    color:blue;
+}
+
+#google-link:visited
+{
+    color: red;
+}
